@@ -8,6 +8,7 @@ Here you'll find macros, help and hints for PSK31.
 
 - [Getting started](#getting-started)
 - [Macro sets](#macro-sets)
+	- [PSK31](#psk31)
 - [Thanks](#thanks)
 
 ## Getting started
@@ -47,24 +48,37 @@ But there is more information out there...
 #### Keep in mind
 
 - Use **lower case** characters to increase your speed
-- Repeat the vitals (call sign, RST) three times, but not during a contest
-- Transmit symbols before your callsign to prevent wrong reading, especially in bad conditions  
-  `***<their-call> <their-call> de <your-callsign> <your-callsign>'`
+- Repeat the **vitals** (call sign, RST) **three times,** but not during a contest
+- Transmit **symbols before your callsign** to prevent wrong reading, especially in bad conditions  
+	>      ***<their-call> <their-call> de <your-callsign> <your-callsign>'
 
-#### Most common PSK31 macros
+#### Common macros
 
 You can have macro setups that cover almost every eventuality, the most common include the following:
 
-1. Sending a CQ call
-	1. `CQ CQ CQ <your-callsign> <your-callsign> <your-callsign> k`
-	2. `CQ CQ CQ <your-callsign> <your-callsign> <your-callsign> CQ k`
-2. Answering a CQ call
-3. Starting a QSO (<their-call> de <your-call>)
-4. Your station details (Name/Location/Grid Reference/Radio/Antenna etc…)
-5. Ending a QSO (SK)
-
+1. Calling CQ
+	>     `CQ CQ CQ <your-callsign> <your-callsign> <your-callsign> k
+	>     `CQ CQ CQ <your-callsign> <your-callsign> <your-callsign> CQ k
+2. Answer a CQ call
+	>     <their-callsign> de <my-callsign> <my-callsign> <my-callsign> kn
+3. Start a QSO
+	>     <their-callsign> de <my-callsign> <my-callsign> <my-callsign>
+4. About Me/QTH
+	>     Name: <MYNAME> <MYNAME>
+	>     QTH: <MYQTH> <MYQTH>
+	>     LOC: <MYLOC> <MYLOC>
+	>     QSL via bureau or eQSL
+5. Station details (brag)
+	>     Rig: Yaesu FT-817nd
+	>     Ant: 21m longwire antenna
+	>     Pwr: 5w
+	>     Web: dl6nm.de / qrz.com
+6. End the over (kn)
+	>     btu <NAME> <CALL> de <MYCALL> kn
+7. End QSO (sk)
+	>     tnx fer QSO <NAME>, 73s to you and your family
+    >     <CALL> de <MYCALL> sk
 
 ## Thanks
 
 The following people heplped me to understand the basics of digital modes: DL1TSC, M0JCQ.
-
