@@ -4,6 +4,12 @@ Collection of macro sets for use within _Digital Master 780_ (DM-780), an applic
 
 Here you'll find macros, help and hints for PSK31.
 
+## Table of contents
+
+- [Getting started](#getting-started)
+- [Macro sets](#macro-sets)
+- [Thanks](#thanks)
+
 ## Getting started
 
 ### Import macro sets
@@ -40,7 +46,7 @@ But there is more information out there...
 
 #### Keep in mind
 
-- Increase your speed – Use lower case characters!
+- Use **lower case** characters to increase your speed
 - Repeat the vitals (call sign, RST) three times, but not during a contest
 - Transmit symbols before your callsign to prevent wrong reading, especially in bad conditions  
   `***<their-call> <their-call> de <your-callsign> <your-callsign>'`
@@ -56,3 +62,9 @@ You can have macro setups that cover almost every eventuality, the most common i
 3. Starting a QSO (<their-call> de <your-call>)
 4. Your station details (Name/Location/Grid Reference/Radio/Antenna etc…)
 5. Ending a QSO (SK)
+
+
+## Thanks
+
+The following people heplped me to understand the basics of digital modes: DL1TSC, M0JCQ.
+
