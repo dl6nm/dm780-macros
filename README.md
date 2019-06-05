@@ -69,10 +69,10 @@ You can have macro setups that cover almost every eventuality, the most common i
 	>     LOC: <MYLOC> <MYLOC>
 	>     QSL via bureau or eQSL
 5. Station details (brag)
-	>     Rig: Yaesu FT-817nd
-	>     Ant: 21m longwire antenna
-	>     Pwr: 5w
-	>     Web: dl6nm.de / qrz.com
+	>     Rig: <my:radio> 
+	>     Ant: <my:antenna> 
+	>     Pwr: <my:power> 
+	>     Web: <my:homepage> 
 6. End the over (kn)
 	>     btu <NAME> <CALL> de <MYCALL> kn
 7. End QSO (sk)
